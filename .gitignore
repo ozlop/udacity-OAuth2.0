@@ -2,3 +2,4 @@
 *~
 *.db
 .vagrant/
+client_secrets.json
